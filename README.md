@@ -1,5 +1,3 @@
-MFIS — Manufacturing Factory Integration System
-
 <p align="center">
   <h1 align="center">🏭 MFIS</h1>
   <p align="center">
